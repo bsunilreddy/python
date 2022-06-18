@@ -1,0 +1,12 @@
+
+def phone(a):
+	if a==7349851641:
+		print('it is soumya')
+	elif a==2484033047:
+
+			print('it is sunil')
+	else:
+			print("enter a valid number")
+phone(int(input("enter a phone number")))
+
+

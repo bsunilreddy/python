@@ -1,0 +1,10 @@
+# caluculate of squre root of number
+a=float(input("Enter a number for squre root"))
+b=float(input("Enter a number for")) 
+print("squrate root of( {}) = {}".format(a,a**(1/2)))
+print(" addition of anumber {},{} = {}".format(a,b,a+b))
+print(" mul of anumber {},{} = {}".format(a,b,a*b))
+print(" div of anumber {},{} = {}".format(a,b,a/b))
+print(" floor division of anumber {},{} = {}".format(a,b,a//b))
+print(" module of anumber {},{} = {}".format(a,b,a%b))
+print(" exponetial of anumber {},{} = {}".format(a,b,a**b))

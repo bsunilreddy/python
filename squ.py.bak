@@ -1,0 +1,4 @@
+# caluculate of squre root of number
+a=float(input("Enter a number for squre root"))
+b=a**(1/2)
+print("squrate root of( {}) = {}".format(a,b))

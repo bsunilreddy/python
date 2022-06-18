@@ -1,0 +1,8 @@
+
+def sunil(a,b):
+	c=a+b
+	
+
+
+print("sum of=",sunil(10,20))
+    

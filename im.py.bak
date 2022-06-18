@@ -1,0 +1,9 @@
+
+import l
+
+
+
+c=l.sum(12,15)
+m=l.mul(2,5)
+print(c)
+print(m)

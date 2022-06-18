@@ -1,0 +1,13 @@
+a=int(input("enter first value"))
+b=int(input("enter second value"))
+d=a**2+2*a*b+b
+e=a**3+b**3+3*(a*b)*(a+b)
+f=a**2-2*a*b+b**2
+h=a**3-3*a**2*b+3*a*b**2-b**3
+print("="*50)
+print("RESULT:")
+print("(a+b)**2={}".format(d))
+print("(a+b)**3={}".format(e))
+print("(a-b)**2={}".format(f))
+print("(a-B)**3={}".format(h))
+print("="*50)

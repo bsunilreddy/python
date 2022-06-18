@@ -1,0 +1,4 @@
+#Diaplay the names and age
+a=lambda b,c:b+c
+d=a(10,50)
+print('result',d)

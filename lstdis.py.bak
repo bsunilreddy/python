@@ -1,0 +1,10 @@
+def value(lst):
+	for val in lst:
+		print('\t',val)
+
+
+
+lst=[int(val) for val in(input().split())]
+value(lst)
+lst1=[52,562,41,85]
+value(lst1)
